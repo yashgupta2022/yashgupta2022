@@ -3,16 +3,22 @@
 
 - 📝 I’m currently pursuing **B.Tech (CSE) from MAIT, Delhi**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashgupta2022?tab=repositories](https://github.com/yashgupta2022?tab=repositories)
+- 👨‍💻 **All of my projects are available at:** [https://github.com/yashgupta2022?tab=repositories](https://github.com/yashgupta2022?tab=repositories)
 
-- 📫 How to reach me **yash2002.gupta@gmail.com**
+- 📫 **How to reach me:** **yash2002.gupta@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yash-gupta-36b535243/](https://www.linkedin.com/in/yash-gupta-36b535243/)
+- 📄 **Know about my experiences:** [https://www.linkedin.com/in/yash-gupta-36b535243/](https://www.linkedin.com/in/yash-gupta-36b535243/)
 
-<h3 align="left">Connect with me:</h3>
+- 💬**Ask me about:**  JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
+  
+- ⚡**Fun fact:**  I love to code and create websites.
+
+
+<h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash-gupta-36b535243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-gupta-36b535243" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashg2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashg2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-gupta-36b535243" target="#"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="yash-gupta-36b535243" /></a>
+<a href="mailto:yash2002.gupta@gmail.com" target="#"><img align="center" src="https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=gmail&logoColor=white" alt="yash2002.gupta"  /></a>
+<a href="https://www.leetcode.com/yashg2002" target="#"><img align="center" src="https://img.shields.io/badge/Leetcode-FE7A16.svg?logo=leetcode&logoColor=white" alt="yashg2002"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
