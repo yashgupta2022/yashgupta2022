@@ -15,6 +15,8 @@
 
 
 🌐 **Socials:**
+
+**Visit My Portfolio:** https://yash-gupta-portfolio-sigma.vercel.app/ 
 <p align="left">
 <a href="https://linkedin.com/in/yash-gupta-36b535243" target="#"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="yash-gupta-36b535243" /></a>
 <a href="mailto:yash2002.gupta@gmail.com" target="#"><img align="center" src="https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=gmail&logoColor=white" alt="yash2002.gupta"  /></a>
