@@ -1,27 +1,28 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">A budding Software Developer skilled in Full Stack Web Development</h3>
+<h3 align="center">A Software Developer skilled in C++, AIML and Web Development</h3>
 
-- 📝 I’m currently pursuing **B.Tech (CSE) from MAIT, Delhi**
-
-- 👨‍💻 **All of my projects are available at:** [https://github.com/yashgupta2022?tab=repositories](https://github.com/yashgupta2022?tab=repositories)
-
-- 📫 **How to reach me:** **yash2002.gupta@gmail.com**
+- 📝 I’m a **B.Tech (CSE) graduate from MAIT, Delhi**
 
 - 📄 **Know about my experiences:** [https://www.linkedin.com/in/yash-gupta-36b535243/](https://www.linkedin.com/in/yash-gupta-36b535243/)
 
-- 💬**Ask me about:**  JavaScript, React, Nextjs, Node.js, Python, and any general software development questions.
+- 📫 **How to reach me:** **yash2002.gupta@gmail.com**
+
+- 👨‍💻 **All of my projects are available at:** [https://github.com/yashgupta2022?tab=repositories](https://github.com/yashgupta2022?tab=repositories)
+
+- 💬**Ask me about:**  C++, Python, Artificial Intelligence, Machine Learning, Nextjs, and any general software development questions.
   
 - ⚡**Fun fact:**  I love to code and create websites.
 
 
 🌐 **Socials:**
 
-**Visit My Portfolio:** https://yash-gupta-portfolio-sigma.vercel.app/ 
 <p align="left">
 <a href="https://linkedin.com/in/yash-gupta-36b535243" target="#"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="yash-gupta-36b535243" /></a>
 <a href="mailto:yash2002.gupta@gmail.com" target="#"><img align="center" src="https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=gmail&logoColor=white" alt="yash2002.gupta"  /></a>
 <a href="https://www.leetcode.com/yashg2002" target="#"><img align="center" src="https://img.shields.io/badge/Leetcode-FE7A16.svg?logo=leetcode&logoColor=white" alt="yashg2002"  /></a>
 </p>
+
+**Visit My Portfolio:** https://yash-gupta-portfolio-sigma.vercel.app/ 
 
 💻 **Tech Stack:**
 <p align="left">
